@@ -1,4 +1,4 @@
-2021. 01. 19. Minwoo Choo
+2021-01-19 Minwoo Choo
 
 # Fusion Drive를 사용하는 iMac 문제 발생시 원인과 대처 방법
 
